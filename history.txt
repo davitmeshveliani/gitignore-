@@ -1,0 +1,500 @@
+   13  On branch master
+   14  No commits yet
+   15  Untracked files:
+   16    (use "git add <file>..." to include in what will be committed)
+   17          README.md
+   18  nothing added to commit but untracked files present (use "git add" to track)
+   19  dato@DESKTOP-JJB9DVT MINGW64 ~/0206 (master)
+   20  $ git add README.md
+   21  warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+   22  dato@DESKTOP-JJB9DVT MINGW64 ~/0206 (master)
+   23  $ git status
+   24  On branch master
+   25  No commits yet
+   26  Changes to be committed:
+   27    (use "git rm --cached <file>..." to unstage)
+   28          new file:   README.md
+   29  dato@DESKTOP-JJB9DVT MINGW64 ~/0206 (master)
+   30  $
+   31  dato@DESKTOP-JJB9DVT MINGW64 ~/0206 (master)
+   32  $ git commit -m "added new file README.md"
+   33  [master (root-commit) 2c946e5] added new file README.md
+   34   1 file changed, 1 insertion(+)
+   35   create mode 100644 README.md
+   36  dato@DESKTOP-JJB9DVT MINGW64 ~/0206 (master)
+   37  $
+   38                                                                                                                                                                                                                                                                                                                                                               
+   39  cd
+   40  cd 0206
+   41  git status
+   42  found
+   43  cd
+   44  dit status
+   45  cd 0206
+   46  git status
+   47  git branch -M main
+   48  git remote add origin git@github.com:davitmeshveliani/0206.git
+   49  git remote -v
+   50  git push -u origin main
+   51  cd
+   52  cd 0206
+   53  davit
+   54  ssh ec2-user@linux.itcareerhub.de
+   55  ssh ec2-user@linux.itcareerhub.de
+   56  #!/bin/bash
+   57  USER="davit"
+   58  echo "DATE: $(date)"
+   59  echo "Hello, $USER!"
+   60  echo "monyng davit: $(pwd)"
+   61  process_count=$(ps -ef | grep bioset | grep -v grep | wc -l)
+   62  echo "Number of processes named 'bioset': $process_count"
+   63  file_perm=$(ls -l /etc/passwd | awk '{print $1}')
+   64  echo "Permissions of /etc/passwd: $file_perm"
+   65  #!/bin/bash
+   66  USER="davit"
+   67  echo "DATE: $(date)"
+   68  echo "Hello, $USER!"
+   69  echo "monyng davit: $(pwd)"
+   70  process_count=$(ps -ef | grep bioset | grep -v grep | wc -l)
+   71  echo "Number of processes named 'bioset': $process_count"
+   72  file_perm=$(ls -l /etc/passwd | awk '{print $1}')
+   73  echo "Permissions of /etc/passwd: $file_perm"
+   74  #!/bin/bash
+   75  USER="davit"
+   76  echo "DATE: $(date)"
+   77  echo "Hello, $USER!"
+   78  echo "monyng davit: $(pwd)"
+   79  process_count=$(ps -ef | grep bioset | grep -v grep | wc -l)
+   80  echo "Number of processes named 'bioset': $process_count"
+   81  file_perm=$(ls -l /etc/passwd | awk '{print $1}')
+   82  echo "Permissions of /etc/passwd: $file_perm"
+   83  #!/bin/bash
+   84  USER="davit"
+   85  echo "DATE: $(date)"
+   86  echo "Hello, $USER!"
+   87  echo "monyng davit: $(pwd)"
+   88  process_count=$(ps -ef | grep bioset | grep -v grep | wc -l)
+   89  echo "Number of processes named 'bioset': $process_count"
+   90  file_perm=$(ls -l /etc/passwd | awk '{print $1}')
+   91  echo "Permissions of /etc/passwd: $file_perm"
+   92  #!/bin/bash
+   93  USER="davit"
+   94  echo "DATE: $(date)"
+   95  echo "Hello, $USER!"
+   96  echo "monyng davit: $(pwd)"
+   97  process_count=$(ps -ef | grep bioset | grep -v grep | wc -l)
+   98  echo "Number of processes named 'bioset': $process_count"
+   99  file_perm=$(ls -l /etc/passwd | awk '{print $1}')
+  100  echo "Permissions of /etc/passwd: $file_perm"
+  101  cd
+  102  mkdir -p /
+  103  mkdir -p /opt/dato/koki
+  104  mkdir -p /opt/dato/koki
+  105  rm -r /mkdir -p /opt
+  106  ls -la
+  107  mkdir -p /opt/dato/koki
+  108  mkdir -p/opt/dato/koki
+  109  mkdir --help
+  110  mkdir -p /opt/dato/koki
+  111  pwd
+  112  mkdir -p /dato/koki
+  113  mkdir -p /home/opt/dato/koki
+  114  cd.
+  115  cd /.
+  116  cd /..
+  117  cd
+  118  mkdir -p opt/dato/koki
+  119  ls -l
+  120  ls -l
+  121  ls -la
+  122  echo /opt/dato/koki/koko.txt
+  123  ls -la /opt/dato/koki/koko.txt
+  124  ls -l koko.txt
+  125  tree
+  126  find / - name 'koko.txt'
+  127  ls -l
+  128  cat koko.txt
+  129  cat opt/dato/koki/koko.txt
+  130  echo /opt/dato/koki
+  131  echo /opt/dato/koki/koko.txt
+  132  ls -l
+  133  cat /opt/dato/koki/koko.txt
+  134  tree
+  135  cp../
+  136  touch /opt/dato/koki/koko.txt
+  137  [200~
+  138  mkdir -p /opt/dato/koki
+  139  ssh ec2-user@linux.itcareerhub.de
+  140  cd
+  141  ssh ec2-user@linux.itcareerhub.de
+  142  ssh ec2-user@linux.itcareerhub.de
+  143  cd
+  144  git branch
+  145  mkdir 1006
+  146  cd 1006
+  147  git init
+  148  ls -la
+  149  teoch file.tsx
+  150  ssh ec2-user@linux.itcareerhub.de
+  151  ssh ec2-user@linux.itcareerhub.de
+  152  # 0207
+  153  #!/bin/bash
+  154  echo "Welcome to Amazon server"
+  155  echo "86"
+  156  echo "DAVITI_VARIABLE: 250425-ptm"
+  157  echo "PID 23813 PPID 1"
+  158  echo "[ec2-user@ip-10-0-42-153 ~]$"
+  159  git add git-commands-2025-06-15.md
+  160  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  161  git push origin main
+  162  git add git-commands-2025-06-15.md
+  163  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  164  git push origin main
+  165  #!/bin/bash
+  166  echo "Welcome to Amazon server"
+  167  echo "86"
+  168  echo "DAVITI_VARIABLE: 250425-ptm"
+  169  echo "PID 23813 PPID 1"
+  170  echo "[ec2-user@ip-10-0-42-153 ~]$"
+  171  git add git-commands-2025-06-15.md
+  172  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  173  git push origin main
+  174  git add git-commands-2025-06-15.md
+  175  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  176  git push origin main
+  177  cd 0207
+  178  cd
+  179  cd 0207
+  180  vi 0207
+  181  push 0207
+  182  cammit 0207
+  183  git commit -m 0207
+  184  git status 0207
+  185  git push 0207
+  186  git@github.com:davitmeshveliani/0207.git
+  187  git push -m git@github.com:davitmeshveliani/0207.git
+  188  ls -la
+  189  git cammit
+  190  git status
+  191  cat /2007
+  192  cat /0207
+  193  cat 0207
+  194  dh -f | 0207
+  195  cd
+  196  cd 0207
+  197  git brench
+  198  git --help
+  199  git branch
+  200  git branch <1506>
+  201  git checkout -b 1506
+  202  git status
+  203  git add 0207
+  204  git config --global core.autocrlf true
+  205  git commit -m "დამატებულია საქაღალდე 0207"
+  206  git log --oneline
+  207  git remote add origin https://github.com/შენი-მომხმარებელი/შენი-რეპო.git
+  208  git remote -v
+  209  git push -u origin 1506
+  210  git log --graph --oneline --all
+  211  git log --merges
+  212  git show
+  213  git log --graph --oneline --all --decorate
+  214  *   abc123 (HEAD -> main) Merge branch '1506'
+  215  |\  
+  216  | * 0b8bcde (origin/1506, 1506) დამატებულია საქაღალდე 0207
+  217  |/  
+  218  * e8865ab initial commit
+  219  git log --graph --oneline --all
+  220  git checkout main
+  221  git pull origin main
+  222  git log --graph --oneline --all
+  223  touch git-commands-2025-06-15.md
+  224  cd
+  225  touch git-commands-2025-06-15.md
+  226  touch git-commands-2025-06-15.md
+  227  git add git-commands-2025-06-15.md
+  228  git commit -m "დამატებულია ბრძანებების სრული სია ახსნებით"
+  229  git push origin main
+  230  cd ~/0506
+  231  git clone https://github.com/davitmeshveliani/0506.git
+  232  cd 0506
+  233  cd 0506
+  234  cd 0506
+  235  mv ~/git-commands-2025-06-15.md .
+  236  git add git-commands-2025-06-15.md
+  237  git commit -m "დაემატა ბრძანებების სრული სია ახსნებით"
+  238  git push origin main
+  239  touch git-commands-2025-06-15.md
+  240  nano git-commands-2025-06-15.md
+  241  git add git-commands-2025-06-15.md
+  242  git commit -m "შეივსო ბრძანებების სია შინაარსით"
+  243  git push origin main
+  244  nano README.md
+  245  nano README.md
+  246  git add README.md
+  247  git commit -m "დაემატა ბმული ბრძანებების სახელმძღვანელოზე"
+  248  git push origin main
+  249  nano README.md
+  250  git add README.md
+  251  git commit -m "დაემატა ბმული Git ბრძანებების სახელმძღვანელოზე"
+  252  git push origin main
+  253  nano README.md
+  254  git add README.md
+  255  $ git commit -m "დაემატა ბმული Git ბრძანებების სახელმძღვანელოზე"
+  256  $ git push origin main
+  257  git push origin main
+  258  Everything up-to-date
+  259  nano git-commands-2025-06-15.md
+  260  git add git-commands-2025-06-15.md
+  261  git config --global core.autocrlf false
+  262  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  263  git push origin main
+  264  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  265  git push origin main
+  266  nano git-commands-2025-06-15.md
+  267  git add git-commands-2025-06-15.md
+  268  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  269  git push origin main
+  270  cp git-commands-2025-06-15.md ~/Desktop/
+  271  cp git-commands-2025-06-15.pdf ~/Desktop/
+  272  nano README.md
+  273  git add README.md
+  274  git commit -m "დამატდა ბმული PDF სახელმძღვანელოზე"
+  275  git push origin main
+  276  cp git-commands-2025-06-15.pdf ~/Desktop/
+  277  ls -la
+  278  cp git-commands-2025-06-15.pdf ~/Desktop/
+  279  $ cp git-commands-2025-06-15.pdf ~/Desktop/
+  280  cp: cannot stat 'git-commands-2025-06-15.pdf': No such file or directory
+  281  git-commands-2025-06-15.md
+  282  ls -l | grep git-commands
+  283  cp git-commands-2025-06-15.pdf ~/Desktop/
+  284  cp git-commands-2025-06-15.md ~/Desktop/
+  285  pandoc git-commands-2025-06-15.md -t pptx -o git-guide.pptx
+  286  pandoc git-commands-2025-06-15.md -o git-guide.docx
+  287  choco install pandoc
+  288  git-commands-2025-06-15.md
+  289  cp git-commands-2025-06-15.md ~/Desktop/LONUX
+  290  cp git-commands-2025-06-15.md ~/Desktop/LONUX.md
+  291  git add git-commands-2025-06-15.md
+  292  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  293  git push origin main
+  294  git add git-commands-2025-06-15.md
+  295  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  296  git push origin main
+  297  git add git-commands-2025-06-15.md
+  298  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  299  git push origin main
+  300  cd
+  301  mv ~/Desktop/LONUX ~/Desktop/LONUX.md
+  302  cp git-commands-2025-06-15.md ~/Desktop/LONUX/
+  303  pwd
+  304  ls -la | grep git
+  305  nano ~/Desktop/LONUX/git-commands-2025-06-15.md
+  306  cat ~/Desktop/LONUX/git-commands-2025-06-15.md
+  307  ~/Desktop/LONUX/git-commands-2025-06-15.md
+  308  cat ~/Desktop/LONUX/git-commands-2025-06-15.md
+  309  git rm --cached git-commands-2025-06-15.md
+  310  ls -la
+  311  cat ~/Desktop/LONUX/git-commands-2025-06-15.md
+  312  pandoc ~/Desktop/LONUX/git-commands-2025-06-15.md -o ~/Desktop/LONUX/git-guide.pdf
+  313  pandoc ~/Desktop/LONUX/git-commands-2025-06-15.md -o ~/Desktop/LONUX/git-guide.docx
+  314  cd ~/Desktop
+  315  zip -r git-guide.zip LONUX/
+  316  Compress-Archive -Path .\LONUX\ -DestinationPath .\git-guide.zip
+  317  Compress-Archive -Path .\LONUX\ -DestinationPath .\git-guide.zip
+  318  choco install zip
+  319  zip --version
+  320  zip -r git-guide.zip LONUX/
+  321  Compress-Archive -Path "$env:USERPROFILE\Desktop\LONUX" -DestinationPath "$env:USERPROFILE\Desktop\git-guide.zip"
+  322  Compress-Archive -Path "$env:USERPROFILE\Desktop\LONUX" -DestinationPath "$env:USERPROFILE\Desktop\git-guide.zip"
+  323  Compress-Archive -Path "$env:USERPROFILE\Desktop\LONUX" -DestinationPath "$env:USERPROFILE\Desktop\git-guide.zip"
+  324  cp ~/Desktop/LONUX/git-commands-2025-06-15.md ~/Desktop/git-guide.txt
+  325  cd
+  326  pandoc schedule.html -f html -t docx -o schedule.docx
+  327  # Linux/WSL–ში დააინსტალირე LibreOffice Writer
+  328  sudo apt update && sudo apt install -y libreoffice-writer
+  329  # ცალკე კონვერტაცია
+  330  libreoffice --headless --convert-to docx schedule.html --outdir .
+  331  cd ~/Desktop
+  332  ~/Desktop/pandoc/pandoc.exe schedule.html -f html -t docx -o schedule.docx
+  333  pip install html2docx
+  334  python - << 'EOF'
+  335  from html2docx import html2docx
+  336  doc = html2docx()
+  337  with open("schedule.html","r",encoding="utf-8") as src:
+  338      html = src.read()
+  339  doc.add_html(html)
+  340  doc.save("schedule.docx")
+  341  EOF
+  342  pip install mammoth
+  343  import mammoth
+  344  # ჩასვით schedule.html ბაიტურად
+  345  with open("schedule.html","rb") as fin:
+  346      result = mammoth.convert_to_docx(fin)
+  347  # გადააწერეთ schedule.docx
+  348  with open("schedule.docx","wb") as fout:
+  349      fout.write(result.value)
+  350  print("✅ schedule.docx შექმნილია Mammoth–ით")
+  351  python convert_html.py
+  352  cd ~/Desktop
+  353  cat > convert_html.py << 'EOF'
+  354  import mammoth
+  355  # წაიკითხე schedule.html
+  356  with open("schedule.html", "rb") as fin:
+  357      result = mammoth.convert_to_docx(fin)
+  358  # გამოიტანე schedule.docx
+  359  with open("schedule.docx", "wb") as fout:
+  360      fout.write(result.value)
+  361  print("✅ schedule.docx შექმნილია Mammoth–ით")
+  362  EOF
+  363  ls ~/Desktop/{schedule.html,convert_html.py}
+  364  python ~/Desktop/convert_html.py
+  365  cd ~/Desktop
+  366  curl -L -o schedule.html "https://lms.itcareerhub.de/local/airtable_schedule/index.php"
+  367  wget -O schedule.html "https://lms.itcareerhub.de/local/airtable_schedule/index.php"
+  368  ls -l ~/Desktop/schedule.html
+  369  # 1) საჭირო პაკეტები (Git Bash ან PowerShell-ში, სადაც Python–ია):
+  370  pip install beautifulsoup4 html2docx lxml
+  371  # 2) უშუალოდ სკრიპტი, შეინახე Desktop-ზე როგორც convert_table.py
+  372  cat > ~/Desktop/convert_table.py << 'EOF'
+  373  from bs4 import BeautifulSoup
+  374  from html2docx import html2docx
+  375  # 1. ჩამოაკითხე შენახული HTML
+  376  with open("schedule.html", "r", encoding="utf-8") as f:
+  377      html = f.read()
+  378  # 2. ამოღებული გადააკეთე BeautifulSoup–ით
+  379  soup = BeautifulSoup(html, "lxml")
+  380  table = soup.find("table")
+  381  if not table:
+  382      print("❗ ცხრილის ტეგი ვერ მოიძებნა schedule.html–ში")
+  383      exit(1)
+  384  # 3. მთლიან HTML–ად გადააქციო მხოლოდ ჩვენი ცხრილი
+  385  partial_html = f"<html><body>{table}</body></html>"
+  386  # 4. html2docx–ის ვიკერის გამოძახება (content, title)
+  387  docx_bytes = html2docx(partial_html, title="My Schedule")
+  388  # 5. გამომუშავებული DOCX-ის შენახვა
+  389  with open("schedule.docx", "wb") as f:
+  390      f.write(docx_bytes)
+  391  print("✅ schedule.docx შექმნილია Desktop–ზე")
+  392  EOF
+  393  ls ~/Desktop/{schedule.html,convert_table.py}
+  394  cd ~/Desktop
+  395  python convert_table.py
+  396  <html>
+  397  <head><meta charset="utf-8"></head>
+  398  <body>
+  399    <-rw-r--r-- 1 dato 197121 7 Jun 4 22:33 აქ დააკოპირე outerHTML ცხრილისა -->
+  400    <table>…copied content…</table>
+  401  </body>
+  402  </html>
+  403  cd ~/Desktop
+  404  cat > convert_table_only.py << 'EOF'
+  405  from html2docx import html2docx
+  406  # ავიღოთ მხოლოდ ცხრილი
+  407  with open("table_only.html", "r", encoding="utf-8") as f:
+  408      html = f.read()
+  409  # კონვერტაცია Word–ად
+  410  docx_bytes = html2docx(html, title="Course Schedule")
+  411  with open("schedule.docx", "wb") as fout:
+  412      fout.write(docx_bytes)
+  413  print("✅ schedule.docx მზადაა ცხრილით")
+  414  EOF
+  415  cd ~/Desktop
+  416  python convert_table_only.py
+  417  ls -la
+  418  cd ../
+  419  /..
+  420  /..
+  421  ../
+  422  pwd
+  423  cd
+  424  cd../
+  425  cd ../
+  426  cd ./
+  427  cd
+  428  cd ./
+  429  cd .../
+  430  cd <../
+  431  cd >../
+  432  ./
+  433  pwd
+  434  cd .../
+  435  cd ./
+  436  cd ../
+  437  cd :/
+  438  cd
+  439  ssh ec2-user@linux.itcareerhub.de
+  440  cd <../
+  441  nano TEXTIK
+  442  ./TEXRIK
+  443  ./sh
+  444  ./TESTIK
+  445  cd
+  446  ./TESTIK
+  447  pwd
+  448  ls -l TESTIK
+  449  pwd
+  450  ls -l
+  451  nano TESTIK
+  452  chmod +x TESTIK
+  453  ./TESTIK
+  454  ssh ec2-user@linux.itcareerhub.de
+  455  ssh ec2-user@linux.itcareerhub.de
+  456  git add git-commands-2025-06-15.md
+  457  git commit -m "განახლდა ბრძანებების სრული სია — გაფართოებული ვერსია"
+  458  git push origin main
+  459  cd Desktop/git-branch
+  460  mkdir ~/Desktop/git-branch
+  461  cd ~/Desktop/git-branch
+  462  git init
+  463  git checkout -b gitignore
+  464  nano .gitignore
+  465  nano .gitignore
+  466  git add .gitignore
+  467  git commit -m "Added .gitignore file for JetBrains-based projects"
+  468  git push origin gitignore
+  469  git remote add origin https://github.com/davitmeshveliani/git-branch.git
+  470  git push -u origin gitignore
+  471  cat .gitignore
+  472  git remote -v
+  473  cd
+  474  ssh ec2-user@linux.itcareerhub.de
+  475  cd
+  476  git clone https://github.com/შენი-username/my-repo.git
+  477  ssh ec2-user@linux.itcareerhub.de
+  478  cd
+  479  ssh ec2-user@linux.itcareerhub.de
+  480  git push origin feature
+  481  cd ~/Desktop/my-repo-
+  482  [200~ls ~/Desktop
+  483  ls ~/Desktop
+  484  cd
+  485  pwd
+  486  echo "# gitignore-" >> README.md
+  487  git init
+  488  git add README.md
+  489  git commit -m "first commit"
+  490  git branch -M main
+  491  git remote add origin git@github.com:davitmeshveliani/gitignore-.git
+  492  git push -u origin main
+  493  git clone https://github.com/davitmeshveliani/gitignore-.git
+  494  cd gitignore-
+  495  git checkout -b feature
+  496  git add README.md .gitignore
+  497  ls -a
+  498  echo "# Ignore Python cache files" > .gitignore
+  499  echo "__pycache__/" >> .gitignore
+  500  echo "# Ignore Python cache files" > .gitignore
+  501  cat .gitignore
+  502  git checkout -b feature
+  503  git add README.md .gitignore
+  504  git commit -m "Update README and .gitignore in feature branch"
+  505  git push -u origin feature
+  506  git commit --amend
+  507  git push 
+  508  git push --force origin feature
+  509  git status
+  510  git checkout main
+  511  git merge feature
+  512  history > history.txt
